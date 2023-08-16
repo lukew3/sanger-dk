@@ -1,6 +1,6 @@
 # Sanger.dk
 
-![dog licking screen](https://github.com/lukew3/sanger-dk/blob/main/sanger.gif)
+<img src="https://github.com/lukew3/sanger-dk/blob/main/sanger.gif" height="200px">
 
 For when you need a dog to lick your screen.
 
